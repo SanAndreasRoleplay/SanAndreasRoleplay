@@ -2278,6 +2278,17 @@ body {
 .cid-rpgkFAXF4v {
   background-image: url("../../../assets/images/nigh-ally-charger-1-974x428.png");
 }
+.cid-rpOS7A5y7u {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rpOS7A5y7u .mbr-text {
+  color: #767676;
+}
+.cid-rpOS7A5y7u .mbr-text P {
+  text-align: center;
+}
 .cid-rpgkMqwuy7 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2360,6 +2371,9 @@ body {
   .cid-rpxAXMTWQW .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-rpOMKmeyC6 {
+  background-image: url("../../../assets/images/srt2-1130x561.png");
 }
 .cid-rokad0gR1W .navbar {
   background: #ffffff;
@@ -2752,6 +2766,15 @@ body {
 .cid-rokad0gR1W .nav-link:hover,
 .cid-rokad0gR1W .dropdown-item:hover {
   color: #767676 !important;
+}
+.cid-rpOMCm3g98 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rpOMCm3g98 .mbr-text,
+.cid-rpOMCm3g98 blockquote {
+  color: #767676;
 }
 .cid-rokad0gR1W .navbar {
   background: #ffffff;
